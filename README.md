@@ -42,7 +42,7 @@ This project demonstrates how to integrate Swagger with a Spring Boot 3 applicat
    http://localhost:8080/h2-console
    ```
 14. **Enter the following JDBC URL:**
-   ```
+    ```
     jdbc:h2:mem:testdb
     ```
 15. **Connect to the database and view the tables and data stored by the application.**
