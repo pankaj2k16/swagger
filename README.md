@@ -2,8 +2,7 @@
 
 This project demonstrates how to integrate Swagger with a Spring Boot 3 application using Springdoc-openapi and an H2 in-memory database.
 
-[![Banner](banner)](https://github.com/pankaj2k16/swagger/blob/main/src/main/resources/static/public/Banner.jpg)
-
+![Banner](https://github.com/pankaj2k16/swagger/blob/main/src/main/resources/static/public/Banner.jpg)
 ## Features
 
 * **Spring Boot 3:**  Utilizes the latest features and improvements of Spring Boot 3.
